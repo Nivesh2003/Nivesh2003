@@ -3,12 +3,12 @@
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nivesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="nivesh" /> </p>
+
+<img align="right" alt="Coding" width="400" src="">
+
+<p align="left">  </p>
 - 👀 I love sitting in front of my laptop.<br>
 - 🌱 I’m learning as days pass by. <br>
 - 💞️ Feel free to reach me out for anything 
 -
 
-<!---
-Nivesh2003/Nivesh2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
