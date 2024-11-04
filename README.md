@@ -10,7 +10,12 @@
 - 👀 I love sitting in front of my laptop.<br>
 - 🌱 I’m learning as days pass by. <br>
 - 💞️ Feel free to reach me out for anything 
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
 <p align="left">
     <img src="https://github-trophies.vercel.app/?username=Nivesh2003&theme=darkhub&title=MultiLanguage,Commit,Repositories,Followers,Issues,Stars,PullRequest,Reviews,Organizations&column=9" alt="My trophies" />
 </p>
+
+<h2 align="left">Connect with me:</h2>
+
