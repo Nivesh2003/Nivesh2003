@@ -4,7 +4,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nivesh2003&label=Profile%20views&color=0e75b6&style=flat" alt="nivesh" /> </p>
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="right" alt="Coding" width="400" src="coding.gif">
 
 <p align="left">  </p>
 - 👀 I love sitting in front of my laptop.<br>
